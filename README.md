@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# PRODIGY_SD_02
 
 ### Guess the Number To Win
 
