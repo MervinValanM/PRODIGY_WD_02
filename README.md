@@ -1,4 +1,4 @@
-# PRODIGY_SD_02
+# PROJECT_Guess_the_Number
 
 ### Guess the Number To Win
 
